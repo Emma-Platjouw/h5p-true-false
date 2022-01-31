@@ -35,7 +35,7 @@
         },
         {
           "label": "Onderschrift voor de \"Onjuist\"-knop",
-          "default": "Onjuist"
+          "default": "Fout"
         },
         {
           "label": "Feedback tekst",
@@ -48,7 +48,7 @@
         },
         {
           "label": "Text for \"Submit\" button",
-          "default": "Submit"
+          "default": "Controleer"
         },
         {
           "label": "Tekst voor de \"Toon oplossing\"-knop",
@@ -60,7 +60,7 @@
         },
         {
           "label": "Onjuist antwoord",
-          "default": "Onjuist antwoord"
+          "default": "Fout antwoord"
         },
         {
           "label": "Juist antwoord",
